@@ -1,0 +1,22 @@
+Gored Printing Settings
+
+Cubic for all
+
+
+Corner Guards
+	- 10 walls
+	- 5 top 5 bottom
+	- 15% infill
+
+Wheels
+	- 8 Walls
+	-8 top 8 bottom
+	- 15% infill
+
+Ears
+	- 6 walls
+	- 4 top 4 bottom
+	- 15% infill
+
+Top Plate Bits
+	- solid
