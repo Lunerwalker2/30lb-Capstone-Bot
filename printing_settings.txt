@@ -36,3 +36,9 @@ Ears
 
 Top Plate Bits
 	- solid
+
+Cope Slope
+	- 2 Walls
+	- 5% honeycomb	
+	- 1 top
+	- 3 bottoms
