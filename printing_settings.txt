@@ -37,7 +37,7 @@ Ears
 Top Plate Bits
 	- solid
 
-Cope Slope
+Cope Slope (194g each)
 	- 2 Walls
 	- 5% honeycomb	
 	- 1 top
